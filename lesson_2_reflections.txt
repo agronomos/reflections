@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 De manera segura
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+puede ser
+
